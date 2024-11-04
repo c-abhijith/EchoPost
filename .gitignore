@@ -1,1 +1,6 @@
 Echopost_backend/venv/
+# Echopost_backend/.env
+Echopost_backend/__pycache__/
+Echopost_backend/*.pyc
+__pycache__/
+*.pyc
